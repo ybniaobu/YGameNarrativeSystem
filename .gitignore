@@ -1,0 +1,55 @@
+# Global ignore templates: https://github.com/github/gitignore/tree/main/Global
+
+# OS generated files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# IDEs and editors
+.idea/
+.vs/
+.vscode/
+.gradle/
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+*.sln.docstates
+
+# .NET build and restore output
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+artifacts/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Test and coverage output
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+coverage*.xml
+coverage*.json
+
+# Unity project leftovers, in case Unity is opened at the repository root
+/.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+*.log
+
+# Local temporary output
+/output/
+/tmp/
+*.orig
+*.rej
+
+# Unity .meta files are tracked. Do not add "*.meta" here.

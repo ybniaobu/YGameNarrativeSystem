@@ -1,0 +1,33 @@
+node_id,type,speaker_id,zh_cn,en_us,branches,note
+ch01_0001,narration,,雨下了一整夜。,It rained all night.,ch01_0002,开场
+ch01_0002,narration,,你站在旧公寓门口，门牌上的漆已经剥落。,"You stand at the door of the old apartment, the paint on the number plate long peeled away.",ch01_0003,
+ch01_0003,line,spk_002_kai,你确定是这里？,You sure this is the place?,ch01_0004,
+ch01_0004,line,spk_001_lin,（门内）谁？,(From inside) Who is it?,ch01_0005,
+ch01_0005,choice,,你要怎么回答？,How do you answer?,ch01_0006;ch01_0007,回答方式
+ch01_0006,narration,,（敲门）,(Knock),ch01_0008,选项 A
+ch01_0007,narration,,（低声）是我。,(Quietly) It's me.,ch01_0008,选项 B（只出现一次）
+ch01_0008,line,spk_001_lin,（门开了一条缝）……你终于来了。,(The door opens a crack) ...You finally came.,ch01_0009,
+ch01_0009,line,spk_002_kai,我在楼下等你。,I'll wait downstairs.,ch01_0010,
+ch01_0010,choice,,要不要让他一起进来？,Should we let him come in too?,ch01_0011;ch01_0012,要不要带凯进屋
+ch01_0011,narration,,（拉住他的袖子）,(Grab his sleeve),ch01_0013,选项 A
+ch01_0012,narration,,（让他留在楼下）,(Leave him downstairs),ch01_0014,选项 B
+ch01_0013,line,spk_001_lin,进来吧，两个都进来。,Come in. Both of you.,ch01_0015,
+ch01_0014,narration,,凯点点头，退进雨里。,Kai nods and steps back into the rain.,ch01_0015,
+ch01_0015,line,spk_001_lin,屋里很乱，别介意。,The place is a mess. Don't mind it.,ch01_0016,
+ch01_0016,narration,,你跟着她上了楼。,You follow her upstairs.,ch01_0017,
+ch01_0017,narration,,客厅里堆着没拆的纸箱。,Unopened boxes are piled in the living room.,ch01_0018,第二场：屋内
+ch01_0018,line,spk_001_lin,我搬来三个月了，一直没收拾。,I moved in three months ago and still haven't unpacked.,ch01_0019,
+ch01_0019,choice,,你想问什么？,What do you want to ask?,ch01_0020;ch01_0021,问什么
+ch01_0020,narration,,（问起她为什么搬走）,(Ask why she moved away),ch01_0022,选项 A
+ch01_0021,narration,,（什么都不问，帮她收拾）,"(Ask nothing, help her tidy up)",ch01_0030,选项 B
+ch01_0022,line,spk_001_lin,我爸走后，这房子就空了。,"After my dad passed, this place just sat empty.",ch01_0023,
+ch01_0023,line,spk_001_lin,我回来，是想把它卖掉。,I came back to sell it.,ch01_0024,
+ch01_0024,choice,,你怎么回应？,How do you respond?,ch01_0025;ch01_0026,怎么回应
+ch01_0025,narration,,（说：别卖）,(Say: don't sell it),ch01_0027,选项 A
+ch01_0026,narration,,（什么也没说）,(Say nothing),ch01_0029,选项 B
+ch01_0027,line,spk_001_lin,（怔了一下）你说这话，算什么。,(Taken aback) What are you even saying?,ch01_0028,
+ch01_0028,narration,,雨声忽然大了。,The rain suddenly grows louder.,ch01_0029,
+ch01_0029,line,spk_001_lin,算了，先喝点热的吧。,Forget it. Let's have something hot first.,ch01_0030,
+ch01_0030,line,spk_001_lin,谢谢你还来。,Thank you for coming.,ch01_0031,
+ch01_0031,narration,,窗外，雨小了。,"Outside, the rain has eased.",ch01_0032,
+ch01_0032,end,,雨停了。,The rain has stopped.,,章末

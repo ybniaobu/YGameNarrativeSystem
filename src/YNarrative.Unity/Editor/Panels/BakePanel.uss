@@ -1,0 +1,59 @@
+.row {
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.row-label {
+    width: 64px;
+    flex-shrink: 0;
+}
+
+.path-field {
+    flex-grow: 1;
+    margin-right: 6px;
+}
+
+.browse-button {
+    width: 60px;
+    flex-shrink: 0;
+}
+
+.toggle {
+    margin-bottom: 8px;
+}
+
+.actions {
+    flex-direction: row;
+    margin-bottom: 8px;
+}
+
+.primary-button {
+    width: 120px;
+    margin-right: 8px;
+}
+
+.action-button {
+    width: 80px;
+    margin-right: 8px;
+}
+
+.log {
+    flex-grow: 1;
+    min-height: 120px;
+    padding: 6px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 8px;
+}
+
+.log-text {
+    color: rgb(200, 200, 200);
+    font-size: 12px;
+    white-space: normal;
+}
+
+.status {
+    margin-top: 8px;
+    color: rgb(200, 200, 200);
+    font-size: 12px;
+}

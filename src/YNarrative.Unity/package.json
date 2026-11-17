@@ -1,0 +1,20 @@
+{
+	"name": "com.ystudio.gameplay.narrative-system",
+	"displayName":"YGame Narrative System",
+	"version": "0.0.1",
+	"unity": "6000.6",
+	"description": "Unity runtime for YGame Narrative System",
+	"dependencies": {
+		"com.unity.test-framework": "1.6.0",
+		"com.ystudio.gameplay.narrative-system.core": "https://github.com/ybniaobu/YGameNarrativeSystem.git?path=src/YNarrative.Core"
+	},
+	"author": {
+		"name": "NiaoBu",
+		"url": "https://github.com/ybniaobu"
+	},
+	"changelogUrl": "https://github.com/ybniaobu/YGameNarrativeSystem/blob/main/CHANGELOG.md",
+	"documentationUrl": "https://github.com/ybniaobu/YGameNarrativeSystem/blob/main/README.md",
+	"licensesUrl": "https://github.com/ybniaobu/YGameNarrativeSystem/blob/main/LICENSE",
+	"hideInEditor": false,
+	"keywords": ["dialogue", "narrative"]
+}

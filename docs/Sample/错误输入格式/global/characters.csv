@@ -1,0 +1,5 @@
+speaker_id,speaker_name,portrait_default
+spk_001_lin,琳,lin_default
+spk_001_lin,琳（重复的 ID）,lin_dup
+,（空的 ID）,
+spk_004_unused,没被任何节点使用,unused_default

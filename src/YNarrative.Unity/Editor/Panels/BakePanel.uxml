@@ -1,0 +1,29 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    
+    <ui:VisualElement class="row">
+        <ui:Label text="输入目录" tooltip="选择输入目录" class="row-label"/>
+        <ui:TextField name="input-path" class="path-field"/>
+        <ui:Button name="input-browse" text="浏览…" class="browse-button"/>
+    </ui:VisualElement>
+    
+    <ui:VisualElement class="row">
+        <ui:Label text="输出目录" tooltip="选择输出目录" class="row-label"/>
+        <ui:TextField name="output-path" class="path-field"/>
+        <ui:Button name="output-browse" text="浏览…" class="browse-button"/>
+    </ui:VisualElement>
+    
+    <ui:Toggle name="clear-output" label="生成前清空输出目录" class="toggle"/>
+    
+    <ui:VisualElement class="actions">
+        <ui:Button name="read-button" text="读取" class="action-button"/>
+        <ui:Button name="validate-button" text="校验" class="action-button"/>
+        <ui:Button name="bake-button" text="开始烘焙" class="primary-button"/>
+        <ui:Button name="reveal-button" text="打开输出目录" class="primary-button"/>
+    </ui:VisualElement>
+    
+    <ui:ScrollView name="log" mode="Vertical" class="log">
+        <ui:Label name="log-text" class="log-text"/>
+    </ui:ScrollView>
+    
+    <ui:Label name="status" text="就绪" class="status"/>
+</ui:UXML>

@@ -1,0 +1,13 @@
+node_id,type,speaker_id,zh_cn,en_us,branches,note
+ch01_0002,line,spk_999_ghost,角色不存在,Missing speaker,ch01_0003,
+ch01_0003,line,,,Missing chinese,ch01_0004,
+ch01_0003,line,,重复的 node_id,Duplicate id,ch01_0004,
+,line,,空的 node_id,Empty id,ch01_0004,
+ch01_0005,lin,,type 拼错,Wrong type,ch01_0006,
+ch01_0006,line,,两条出边,Two branches,ch01_0007;ch01_0008,
+ch01_0007,choice,,没有出边,No branches,,
+ch01_0008,line,,重复目标,Duplicate target,ch01_0009;ch01_0009,
+ch01_0009,line,,目标不存在,Missing target,ch01_9999,
+ch02_0001,line,,前缀错误,Wrong prefix,ch01_0009,
+ch01_0010,end,,end 还有分支,End with branches,ch01_0009,
+ch01_0011,narration,,中文没有英文,,ch01_0010,

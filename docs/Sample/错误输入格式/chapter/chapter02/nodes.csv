@@ -1,0 +1,4 @@
+node_id,type,speaker_id,zh_cn,en_us,branches,note
+ch02_0001,line,,第一句,First line,ch02_0002,
+ch02_0002,line,,第二句,Second line,ch02_0003,
+ch02_0003,line,,永远走不完,Never ends,ch02_0001,

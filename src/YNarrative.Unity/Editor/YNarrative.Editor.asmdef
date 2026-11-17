@@ -1,0 +1,23 @@
+{
+    "name": "YNarrative.Editor",
+    "rootNamespace": "YNarrative.Editor",
+    "references": [
+        "YNarrative",
+        "YNarrative.Core",
+        "UnityEngine.UI",
+        "UnityEditor.UI",
+        "Unity.Timeline",
+        "Unity.Timeline.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

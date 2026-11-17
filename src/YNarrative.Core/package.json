@@ -1,0 +1,19 @@
+{
+	"name": "com.ystudio.gameplay.narrative-system.core",
+	"displayName":"YGame Narrative System Core",
+	"version": "0.0.1",
+	"unity": "6000.6",
+	"description": "Core of YGame Narrative System. No Unity API usage, so the same logic backs the desktop editor and command-line baking.",
+	"dependencies": {
+		
+	},
+	"author": {
+		"name": "NiaoBu",
+		"url": "https://github.com/ybniaobu"
+	},
+	"changelogUrl": "https://github.com/ybniaobu/YGameNarrativeSystem/blob/main/CHANGELOG.md",
+	"documentationUrl": "https://github.com/ybniaobu/YGameNarrativeSystem/blob/main/README.md",
+	"licensesUrl": "https://github.com/ybniaobu/YGameNarrativeSystem/blob/main/LICENSE",
+	"hideInEditor": false,
+	"keywords": ["dialogue", "narrative"]
+}
